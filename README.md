@@ -1,2 +1,2 @@
-# QBR-React-2021
-Basic BXRetail React App for SA QBR 2021
+# SKO 2022: Intro to React
+Basic BXRetail React App for SKO 2022 labs.
